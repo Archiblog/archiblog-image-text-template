@@ -1,2 +1,2 @@
-# archiblog-image-text-template
-html image text pairing
+# archiblog-image-image-template
+A template for image/image pairing
